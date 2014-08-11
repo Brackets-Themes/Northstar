@@ -1,0 +1,20 @@
+{
+    "title": "Northstar",
+    "name": "northstar",
+    "description": "Northstar Theme for Brackets. Dark and minimal. A Brackets original.",
+    "version": "1.0.0",
+    "author": "larz0 (https://github.com/larz0)",
+    "homepage": "https://github.com/Brackets-Themes/Northstar",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Northstar.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "northstar.css",
+        "dark": true
+    }
+}
